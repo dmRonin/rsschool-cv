@@ -1,5 +1,5 @@
 
-# [rsschool-cv](https://github.com/dmRonin/rsschool-cv/edit/gh-pages/README.md)
+# [rsschool-cv](https://dmronin.github.io/rsschool-cv/)
 
 ## Raschupkin Dmitriy
 
