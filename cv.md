@@ -8,7 +8,7 @@
 - Email:
     dim.sent@icloud.com
 - [GitHub](https://github.com/dmRonin)
-- Location Ulan-Ude ,Russian Federation 
+- Location Ulan-Ude , Russian Federation 
 
 ### Education 
 
