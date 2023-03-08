@@ -20,9 +20,9 @@
  - HTML
  - Git
  - Markdown
- - Basic Javascript
+ - Basic Javascript 
  
- ### Languages 
+### Languages 
  
  - Russian: native 
  - English: B2
