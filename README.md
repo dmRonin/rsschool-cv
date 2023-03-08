@@ -1,1 +1,1 @@
-https://dmRonin.github.io/rsschool-cv/cv
+https://dmronin.github.io/rsschool-cv/
